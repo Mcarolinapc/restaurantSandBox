@@ -29,7 +29,7 @@ El proyecto destaca por una distribución modular de responsabilidades muy clara
 
 ##  Tecnologías y Herramientas
 
-* ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) **Java SE**
+* **Java SE**
 * **Maven:** Gestión de dependencias y automatización del ciclo de vida a través del archivo `pom.xml`.
 * **Design Patterns:** Arquitectura desacoplada basada en capas de servicio.
 
